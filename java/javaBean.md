@@ -1,0 +1,1 @@
+javaBean 是一种java语言写成的可重用的组件，为写成javaBean，类必须是具体的和公有的，并且具有无参数的构造器，javaBean通过提供符合自身机制发现和曹邹这些javaBean属性，换句话说 javaBean 就是一个Java类，只不过这个类你要按照上面提到的一些规则来写，

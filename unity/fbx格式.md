@@ -1,0 +1,5 @@
+fbx是三维通用模型格式。fbx是filmbox这套软件所使用的格式，现在改称Motionbuilder。因为Motionbuilder扮演的是动作制作的平台，所以在前端的modeling和后端的rendering也都有赖于其它软件的配合，所以Motionbuilder在档案的转换上自然下了一番功夫。
+
+FBX最大的用途是用在诸如在Max、Maya、Softimage 等软件间进行模型、材质、动作和摄影机信息的互导，这样就可以发挥Max和Maya等软件的优势。可以说，FBX方案是非常好的互导方案。
+
+FBX格式是一种3D通用模型文件。包含动画、材质特性、贴图、骨骼动画、灯光、摄像机等信息。FBX格式支持多边形(Polygons)游戏模型、曲线(Curves)、表面(Surfaces)、点组材质(Point Group Materials。FBX格式支持法线和贴图坐标。贴图以及坐标信息都可以存入FBX文件中，文件导入后不需要手动指认贴图以及调整贴图坐标。

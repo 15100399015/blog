@@ -1,0 +1,6 @@
+Servlet 是 java Servlet的简称，称为小服务程序或服务连接器，用java编写的服务器端程序，具有独立平台和协议的特性，主要功能在于交互式的浏览和生成数据，生成动态web内容，
+
+狭义的servlet是指java语言实现了一个接口，广义的Servlet是指任何实现了servlet接口的类，一版情况下，人们把Servlet理解为后者
+
+Servlet运行于支持java的应用服务器，从原理上讲，Servlet可以响应任何类型的请求，但绝大多数情况下，Servlet只是用来扩展基于HTTP协议的web服务器
+
